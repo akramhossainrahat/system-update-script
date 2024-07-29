@@ -6,7 +6,7 @@ A comprehensive script to update APT, Snap, and Flatpak packages on Ubuntu.
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/system-update-script.git
+    git clone https://github.com/akramhossainrahat/system-update-script.git
     cd system-update-script
     ```
 
